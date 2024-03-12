@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Daniel Rangga Hardianto and I am a tech enthusiast who loves to create things. I like to think of myself as a problem-solver, and I enjoy creating products that are purposeful and solve problems for people. <br><br>I am currently studying Computer Engineering at IPB University to maximize my opportunity to learn more about my interests in design, software engineering, web development, IoT, data science, and machine learning.<br><br>I am a creative and vibrant person who is passionate about solving problems through technology. I'm always looking for ways to improve myself through new skills and tools.<br><br>I have experience as a graphic designer, web developer, writer, and leader of a team in various organizations. In all these roles I have been able to use my creativity and passion to create beautiful pieces of work that help solve problems for others.
+Daniel Rangga Hardianto Wibowo, a third-year Computer Engineering student at IPB University, has an interest in the field of technology. Rangga is a passionate and innovative individual who has a deep passion for exploring new technology and using them to solve real-world problem. As an engineering student, Rangga has developed technical skills in areas such as Web Development and IoT development.
 
 
 ## 🌐 Socials:
