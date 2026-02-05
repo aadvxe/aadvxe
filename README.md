@@ -1,1 +1,1 @@
-Hi I am Rangga an Undergraduate Computer Engineering student at IPB University with a strong interest in Artificial Intelligence. With over a year of experience in Web and IoT Development, I am proficient in C and Python, specializing in developing smart systems. I am passionate about leveraging new technologies to solve real-world problems.
+
